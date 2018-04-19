@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Restaraunts">
+        <item>Name</item>
+        <item>Address </item>
+        <item>Cuisine</item>
+        <item>rating</item>
+    </string-array>
+</resources>

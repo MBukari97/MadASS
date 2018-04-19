@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PointOfInterest</string>
+    <string name="choosemap">Choose Map</string>
+    <string name="cyclemapview">Cycle Map View</string>
+    <string name="regularview">Regular View</string>
+    <string name="selectmap">Select Map</string>
+    <string name="addpoi">Add Point of Interest</string>
+    <string name="prefs">Preferences</string>
+</resources>
